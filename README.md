@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tripthy
 - 👀 I’m interested in hiring Java developers and QA Engineers
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on hiring java and QA
+- 💞️ I’m looking to collaborate on hiring Java developers and QA Engineers
 - 📫 How to reach me tripthy.g@ezetap.com
 
 <!---
